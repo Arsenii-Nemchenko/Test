@@ -1,6 +1,6 @@
 
 # Variables in Python
-
+# 30-Days-Of-Python day 2
 first_name = 'Asabeneh'
 last_name = 'Yetayeh'
 country = 'Finland'
