@@ -1,4 +1,7 @@
-countries = [
+
+def country_f():
+
+  return [
   'Afghanistan',
   'Albania',
   'Algeria',
@@ -194,4 +197,4 @@ countries = [
   'Yemen',
   'Zambia',
   'Zimbabwe'
-];
+]
